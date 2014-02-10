@@ -173,8 +173,8 @@ define([
                 ],
                 createTrendsDataReqs(),
                 [
-                  createChartOptionsDataReq(true)
-                  createDotLabelDataReqs(),
+                  createChartOptionsDataReq(true),
+                  createDotLabelDataReqs()
                 ]
             )
           }],
